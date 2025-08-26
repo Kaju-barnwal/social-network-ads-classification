@@ -50,16 +50,14 @@ This project benchmarks **Decision Tree, Logistic Regression, Random Forest, XGB
 
 ---
 
-## 📊 Accuracy Comparison Plot
-![Accuracy Comparison](results/accuracy_comparison.png)
-
+## 📊 Accuracy Comparison, Confusion Matrix and ROC-Curve Plot are stored in the results folder.
 *(Barplot comparing model accuracy — Random Forest, SVM, and KNN are leading performers.)*  
-
+And similarly, other plots have been shown up.
 ---
 
 ## ✅ Key Takeaways
 - **Random Forest, SVM, and KNN** achieved the highest performance.  
-- **Tuning improved Decision Tree and Logistic Regression** but had little effect (or negative) on others.  
+- **Tuning improved Decision Tree and Logistic Regression** but had little effect (or a negative effect) on others.  
 - **KNN gave the best ROC-AUC (0.98)**, while **Random Forest achieved the highest accuracy (95%)**.  
 - Logistic Regression remains a solid baseline but lags behind ensemble and kernel-based models.  
 
