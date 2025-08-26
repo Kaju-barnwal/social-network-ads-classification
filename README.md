@@ -51,7 +51,7 @@ This project benchmarks **Decision Tree, Logistic Regression, Random Forest, XGB
 ---
 
 ## 📊 Accuracy Comparison Plot
-![Accuracy Comparison](results.png)
+![Accuracy Comparison](results/accuracy_comparison.png)
 
 *(Barplot comparing model accuracy — Random Forest, SVM, and KNN are leading performers.)*  
 
